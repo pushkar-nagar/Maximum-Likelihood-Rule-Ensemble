@@ -1,2 +1,2 @@
-# Maximum-Likelihood-Rule-Estimation
+# Maximum-Likelihood-Rule-Ensemble
 Python Implementation of paper Maximum Likelihood Rule Ensemble, ICML 2008 
